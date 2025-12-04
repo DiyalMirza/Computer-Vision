@@ -52,5 +52,4 @@ This repository showcases a series of machine vision-based projects aimed at enh
 
 ---
 
-## 📂 Repository Structure
 
